@@ -1,0 +1,3 @@
+Public int Min (int a){
+ return Min-Math.max();
+}
