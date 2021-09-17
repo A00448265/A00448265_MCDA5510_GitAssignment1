@@ -1,4 +1,0 @@
-#A00448265
-Public int Max (int a, int b) {
-return Math.Max(a,b);
-}
