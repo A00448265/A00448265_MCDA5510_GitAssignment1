@@ -1,3 +1,9 @@
+
+public int multiplication(int a, int b)
+{
+	return a*b;
+}
+
 Public int Subtraction (int a, int b){
  return a-b;
 }
@@ -5,4 +11,5 @@ Public int Subtraction (int a, int b){
 #A00448265
 Public int addition (int a, int b) {
 return a+b;
+
 }
